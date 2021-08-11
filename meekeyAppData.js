@@ -1,7 +1,5 @@
 // Variables In JS
 //  var, let and const
-
-
 var firstName = "Collin"
 var lastName = "Rollins";
 var email = "collinsrollins07@gmail.com";
